@@ -3,6 +3,6 @@
 // 비워두면 폼 검증 후 전화/카카오 상담 안내가 표시됩니다.
 window.BORAM_CONFIG = {
   submitEndpoint: "",
-  phone: "010-8823-0446",
-  kakaoUrl: "https://open.kakao.com/o/s2YPKYwi"
+  phone: "010-7309-7836",
+  kakaoUrl: "https://open.kakao.com/o/samNPdmi"
 };
